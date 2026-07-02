@@ -5,10 +5,10 @@ idk what to put here so heres a cat:
 
 ### socials:
 ##### most used:
-[![Discord](https://www.google.com/s2/favicons?sz=24&domain=discord.com)](https://discord.com/users/764548989684940820)
-[![Codeberg](https://www.google.com/s2/favicons?sz=24&domain=codeberg.org)](https://codeberg.org/hasibix)
+[![Discord](icons/discord.png)](https://discord.com/users/764548989684940820)
+[![Codeberg](icons/codeberg.png)](https://codeberg.org/hasibix)
 [![GitHub](https://www.google.com/s2/favicons?sz=24&domain=github.com)](https://github.com/hasibix)
-[![YouTube](https://www.google.com/s2/favicons?sz=24&domain=youtube.com)](https://youtube.com/@hasibix)
+[![YouTube](icons/youtube.png)](https://youtube.com/@hasibix)
 
 ##### less used:
 [![Meta Instagram](https://www.google.com/s2/favicons?sz=24&domain=instagram.com)](https://www.instagram.com/hasibix)
