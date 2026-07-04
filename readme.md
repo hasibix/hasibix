@@ -7,7 +7,7 @@ idk what to put here so heres a cat:
 ##### most used:
 [![Discord](icons/discord.png)](https://discord.com/users/764548989684940820)
 [![Codeberg](icons/codeberg.png)](https://codeberg.org/hasibix)
-[![GitHub](https://www.google.com/s2/favicons?sz=24&domain=github.com)](https://github.com/hasibix)
+[![GitHub](icons/github.png)](https://github.com/hasibix)
 [![YouTube](icons/youtube.png)](https://youtube.com/@hasibix)
 
 ##### less used:
@@ -19,7 +19,7 @@ idk what to put here so heres a cat:
 ##### least used:
 [![Matrix](https://www.google.com/s2/favicons?sz=24&domain=matrix.com)](https://matrix.to/#/@hasibix:matrix.org)
 [![Steam](icons/steam.png)](https://steamcommunity.com/id/hasibix)
-[![TikTok](https://www.google.com/s2/favicons?sz=24&domain=tiktok.com)](https://www.tiktok.com/@hasibix)
+[![TikTok](icons/tiktok.png)](https://www.tiktok.com/@hasibix)
 [![Twitch](icons/twitch.png)](https://twitch.tv/hasibix)
 [![Xbox](icons/xbox.png)](https://account.xbox.com/en-us/profile?gamertag=hasibix)
 [![Meta Facebook](icons/facebook.png)](https://www.facebook.com/profile.php?id=100068620727199)
